@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilbind23&label=Profile%20views&color=0e75b6&style=flat" alt="sunilbind23" /> </p>
 
-- 🌱 I’m  **BCA** 
+- 🌱 **BCA** 
 
 - 📫 How to reach me **bindsunil9336@gmail.com**
 
